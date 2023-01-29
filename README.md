@@ -87,5 +87,6 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 ![OUTPUT](./out2.png)
 ![OUTPUT](./out3.png)
 
+
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
