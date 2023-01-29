@@ -83,9 +83,11 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 
 ```
 ## OUTPUT:
-![OUTPUT](./out1.png)
-![OUTPUT](./out2.png)
-![OUTPUT](./out3.png)
+
+![out1](https://user-images.githubusercontent.com/119560403/215344190-e7c8a67d-cd62-45f9-a7a6-ac8109abc04c.png)
+![out2](https://user-images.githubusercontent.com/119560403/215344197-c5b632b0-2cb2-42b0-abd6-55d4e3ec2bfe.png)
+![out3](https://user-images.githubusercontent.com/119560403/215344201-60803749-32b0-4e73-a2a9-0592ba2cf691.png)
+
 
 
 ## RESULT:
